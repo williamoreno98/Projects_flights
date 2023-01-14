@@ -11,10 +11,10 @@ Ingresar a cada una de las 4 carpetas y en cada una ingresar el comando dotnet r
 Instalar el paquete Newtonsoft.JSON para deserealizar la información que viene del endpoint y MongoDB.Driver para que funcione la librería de MongoDB.
 
 La primera carpeta se llama "myfirstapp". Aquí se soluciona el problema 1. Se compone de 4 códigos. 3 códigos que son para definir las clases de Journey, 
-Flight y Transport y el código "Program_problem1" para probar que la creación de la clase fue correcta para varios casos genéricos diferentes a los 
+Flight y Transport y el código "Program_problem1.cs" para probar que la creación de la clase fue correcta para varios casos genéricos diferentes a los 
 datos proporcionados en la API.
 
-La segunda carpeta se llama "getrequest". Aquí se soluciona el problema 2. El código "Program_problem2" para probar la conexión a la API proporcionada y guardar
+La segunda carpeta se llama "getrequest". Aquí se soluciona el problema 2. El código "Program_problem2.cs" para probar la conexión a la API proporcionada y guardar
 los datos como objetos en las diferentes clases con sus respectivos atributos.
 
 Se escoge la API con endpoint "https://recruiting-api.newshore.es/api/flights/2" y se deja como respuesta un JSON que tiene variable por nombre "final_outputs"
@@ -23,10 +23,8 @@ Se escoge la API con endpoint "https://recruiting-api.newshore.es/api/flights/2"
 La tercera carpeta se llama "get_route". Aquí se soluciona el problema 3. El código "Program.cs" para probar la conexión a la API proporcionada y guardar
 los datos como objetos en las diferentes clases con sus respectivos atributos. Aqui se utiliza el Algoritmo de Dijkstra para la determinación del camino más
 corto, dado un vértice origen, hacia el resto de los vértices en un grafo que tiene pesos en cada arista. En este caso en particular se tienen 9 nodos que son
-las ciudades únicas en los vuelos, además al final se devuelve un resultado para la ruta más optima encontrada y funciona con éxito. En total son 72 casos que se pueden
-probar con este endpoint proporcionado, los casos en los cuales la ciudad de origen empieza con "MZL" tienen errores ya que es el primer nodo, supe que este era el 
-error pero por ahora no lo he podido solucionar, para el resto de 64 casos funciona muy bien el algoritmo. Las rutas donde hay mas tramos son las siguientes: BCN-->MEX,
-BCN-->MAD, MAD-->BCN y MEX-->BCN. 
+las ciudades únicas en los vuelos, además al final se devuelve un resultado para la ruta más optima encontrada y funciona con éxito. En total son 72 casos que se pueden probar con este endpoint proporcionado, los casos en los cuales la ciudad de origen empieza con "MZL" tienen errores ya que es el primer nodo, supe que este era el error pero por ahora no lo he podido solucionar, para el resto de 64 casos funciona muy bien el algoritmo. Las rutas donde hay mas tramos son las siguientes: 
+BCN-->MEX, BCN-->MAD, MAD-->BCN y MEX-->BCN. 
 
 En la linea 97 y 98 se muestra la salida final del algoritmo y en las lineas 58 y 59 se muestra la entrada digitada por el usuario. Intente exponer esto en una API
 pero no tengo mucha familziarizacion para crear un endpoint HTTP, tengo mas experiencia consumiendolas pero no creando una.
