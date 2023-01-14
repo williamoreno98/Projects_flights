@@ -55,7 +55,7 @@ Crear una clase de acceso a datos que se comunique con una base de datos o un se
 Crear una clase de entidad que represente un vuelo.
 Crear una clase de entidad que represente una ruta de viaje.
 Crear una interfaz de repositorio para la manipulación de las rutas de viaje.
-Esta es solo una posible solución y seguramente habrán muchas otras maneras de implementar esto. Por favor considera también en cuanto a seguridad, escalabilidad y rendimiento.
+Esta es solo una posible solución y seguramente habrán muchas otras maneras de implementar esto. Considerar también en cuanto a seguridad, escalabilidad y rendimiento.
 Además, el acceso a la información de los vuelos (origen, destino, horarios, etc) se puede lograr mediante un servicio web o una conexión directa a una base de datos, todo dependera de la arquitectura de su sistema.
 
 
