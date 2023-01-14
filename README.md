@@ -8,7 +8,7 @@ Se genera una solución con programación orientada a objetos realizado en C# co
 La solución se divide en 4 carpetas principalmente.
 
 Ingresar a cada una de las 4 carpetas y en cada una ingresar el comando dotnet restore y dotnet run para poder revisar el correcto funcionamiento de cada código.
-Instalar el paquete Newtonsoft.JSON para deserealizar la información que viene del endpoint.
+Instalar el paquete Newtonsoft.JSON para deserealizar la información que viene del endpoint y MongoDB.Driver para que funcione la librería de MongoDB.
 
 La primera carpeta se llama "myfirstapp". Aquí se soluciona el problema 1. Se compone de 4 códigos. 3 códigos que son para definir las clases de Journey, 
 Flight y Transport y el código "Program_problem1" para probar que la creación de la clase fue correcta para varios casos genéricos diferentes a los 
