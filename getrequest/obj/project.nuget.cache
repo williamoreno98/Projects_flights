@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K7B5DUTlvwz1JtLsq92qM1Py3fF3lI/0koguS8FuP2l1tsQU6NSAyDryge5pcfsZDw4+8h4U+Bfo1Jgx/Yz5ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moren\\Desktop\\Project_flights\\getrequest\\getrequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moren\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

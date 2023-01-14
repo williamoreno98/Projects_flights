@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQmzZJZ1Ci/pYO3dTIXQzH6UGNE2TT8V9eExfGvzydl7WEwdyhsRi79jMpB75/C+fud+UIameqnmXF6yw3xszg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moren\\Desktop\\Project_flights\\get_route\\get_route.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moren\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

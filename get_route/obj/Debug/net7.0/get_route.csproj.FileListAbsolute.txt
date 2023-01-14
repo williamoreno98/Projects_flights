@@ -1,0 +1,17 @@
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.csproj.AssemblyReference.cache
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.AssemblyInfoInputs.cache
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.AssemblyInfo.cs
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.csproj.CoreCompileInputs.cache
+C:\Users\moren\Desktop\Project_flights\get_route\bin\Debug\net7.0\get_route.exe
+C:\Users\moren\Desktop\Project_flights\get_route\bin\Debug\net7.0\get_route.deps.json
+C:\Users\moren\Desktop\Project_flights\get_route\bin\Debug\net7.0\get_route.runtimeconfig.json
+C:\Users\moren\Desktop\Project_flights\get_route\bin\Debug\net7.0\get_route.dll
+C:\Users\moren\Desktop\Project_flights\get_route\bin\Debug\net7.0\get_route.pdb
+C:\Users\moren\Desktop\Project_flights\get_route\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.csproj.CopyComplete
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.dll
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\refint\get_route.dll
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.pdb
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\get_route.genruntimeconfig.cache
+C:\Users\moren\Desktop\Project_flights\get_route\obj\Debug\net7.0\ref\get_route.dll
